@@ -1,0 +1,47 @@
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 200;
+}
+.search-button {
+  background-color: #bbbbbb;
+  color: white;
+  border-color: #bbbbbb;
+  border-radius: 24px;
+}
+.search-button:hover {
+  background: #aaaaaa;
+  border-color: #aaaaaa;
+}
+.location-button {
+  background-color: #bbbbbb;
+  margin-left: 10px;
+  border-color: #bbbbbb;
+  border-radius: 24px;
+}
+.location-button:hover {
+  background: #aaaaaa;
+  border-color: #aaaaaa;
+}
+h1 {
+  font-size: 25px;
+  color: #bbbbbb;
+}
+.location-arrow {
+  font-size: 15px;
+  color: darkgray;
+}
+.card-title {
+  color: #746d69;
+  text-align: center;
+}
+.card-text {
+  text-align: center;
+  color: #746d69;
+}
+.current-temperature {
+  font-size: 50px;
+  font-weight: 200;
+}
+.week-icon {
+  font-size: 25px;
+}
